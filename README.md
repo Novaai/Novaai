@@ -26,6 +26,8 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zambia.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaai&layout=compact&theme=vision-friendly-dark)]
+
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novaai)] -->
 <!--
 **Novaai/Novaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
