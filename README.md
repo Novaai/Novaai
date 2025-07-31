@@ -62,7 +62,8 @@ While my postgraduate work focused on **HR case automation in government setting
 </table>-->
 
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novaai&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>-->
-</div>
----
+
 🛠️ **Explore my work below - from applied OCR from complex workflow automation to full-stack Django apps**
+</div>
+
 
