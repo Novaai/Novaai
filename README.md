@@ -9,7 +9,7 @@
 ## Hi there, I'm Nova 👋
 
 <div align="center">
-🎓 MSc in Computer Science | Full-Stack Developer | Future AI PhD  
+🎓 MSc in Computer Science | Full-Stack Software Engineer | Future AI PhD  
 <br>📍 Zambia | Building ethical, intelligent systems across domains  
 <br>🔍 Focus: AI • Machine Learning • NLP • OCR • Data Science
   </div>
