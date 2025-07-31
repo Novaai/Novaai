@@ -21,11 +21,13 @@
 <a href="https://x.com/chitaluc3" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue" alt=" My Twitter/X">
 </a>
-</div>
 
 <a href="https://youtube.com/skysenova" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-blue" alt=" My YouTube Channel">
 </a>
+</div>
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=Novaai&style=flat-square&color=blue" alt=""/>
