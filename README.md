@@ -14,14 +14,19 @@
 <br>🔍 Focus: AI • Machine Learning • NLP • OCR • Data Science
   </div>
 
-<a href="https://youtube.com/skysenova" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-blue" alt=" My YouTube Channel">
-</a>
+<a href="https://www.linkedin.com/in/wedex-chitalu-ilunga-34b5781b4" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt=" My LinkedIn/X">
+</a>  
 
 <a href="https://x.com/chitaluc3" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue" alt=" My Twitter/X">
 </a>
 </div>
+
+<a href="https://youtube.com/skysenova" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-blue" alt=" My YouTube Channel">
+</a>
+
 
 <img src="https://komarev.com/ghpvc/?username=Novaai&style=flat-square&color=blue" alt=""/>
 </div>
