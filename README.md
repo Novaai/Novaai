@@ -54,7 +54,7 @@ While my postgraduate work focused on **HR case automation in government setting
 - **OpenCV, Tesseract and RegEx** - OCR pipeline development  
 - **scikit-learn, XGBoost, RandomForest** – ML experimentation  
 - **Pandas, NumPy, Matplotlib** - Data science & visualisation  
-- **Other languages** - PHP, C++, <!--Java with SpringBoot-->
+- **Other languages** - PHP, C++ <!--Java with SpringBoot-->
 ---
 <div align="center">
 <!-- <table>
