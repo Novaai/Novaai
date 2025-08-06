@@ -51,7 +51,7 @@ While my postgraduate work focused on **HR case automation in government setting
 - **JavaScript** - Frontend scripting & UI logic  
 - **SQLite, MySQL, PostgreSQL** - Data storage, analytics-ready schemas  
 - **HTML/CSS** - Web interfaces & templating  
-- **OpenCV, Tesseract and RegEx** - OCR pipeline development  
+- **OpenCV, Tesseract and RegEx** - OCR and NLP pipeline development  
 - **scikit-learn, XGBoost, RandomForest** – ML experimentation  
 - **Pandas, NumPy, Matplotlib** - Data science & visualisation  
 - **Other languages** - PHP, C++ <!--Java with SpringBoot-->
